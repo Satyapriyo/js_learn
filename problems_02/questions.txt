@@ -1,0 +1,6 @@
+1. using logical operator find that the age of person lies in 10 to 20 or not.
+2. demonstrate the use of switch case.
+3. wa Js program to find a number is divisable by 3 and 2.
+3. wa Js program to find a number is divisable by 3 and 2.
+4. wa Js program to find a number is divisable by 3 or 2.
+5. print you can drive and you can't drive if the age of user is above 18.

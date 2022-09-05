@@ -1,0 +1,5 @@
+1. write a program to print marks of a student in a object using for loop
+    obj ={ harry:86,ankita:37,satya:80}
+2. rewrite program using for in loop.
+3. WAP to print try again until the user guesses the correct number.
+4. find mean of 5 number usig loop.

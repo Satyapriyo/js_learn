@@ -1,0 +1,8 @@
+Chapter 1 Js Learning 
+1. Create a variable of type string and add a number to it.
+2. Use type of operator to find the datatype of string in
+ the last question.
+3.Create a const object in js and can you change it to told a 
+number later.
+4. Try to add a new key to the object to( posssible or not find).
+5. write a js dictionary to find 5 words meaning.
